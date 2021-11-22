@@ -1,0 +1,12 @@
+.header-container{
+    display: flex;
+}
+
+.nav-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: darkolivegreen;
+    width: 100%;
+    color: whitesmoke;
+}

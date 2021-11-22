@@ -1,0 +1,16 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+/* Body */
+body{
+    font-family: "Roboto Mono", cursive;
+}
+
+.body-container{
+    display: flex;
+    flex-direction: column;
+    font-family: "Roboto Mono";
+    background-color: rgb(38, 38, 38);
+    color: whitesmoke
+}
+
