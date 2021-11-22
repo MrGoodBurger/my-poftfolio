@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-poftfolio/static/css/main.5fa15ae1.chunk.css",
+    "main.js": "/my-poftfolio/static/js/main.45f32f40.chunk.js",
+    "main.js.map": "/my-poftfolio/static/js/main.45f32f40.chunk.js.map",
+    "runtime-main.js": "/my-poftfolio/static/js/runtime-main.67e0e3ea.js",
+    "runtime-main.js.map": "/my-poftfolio/static/js/runtime-main.67e0e3ea.js.map",
+    "static/js/2.120b1edc.chunk.js": "/my-poftfolio/static/js/2.120b1edc.chunk.js",
+    "static/js/2.120b1edc.chunk.js.map": "/my-poftfolio/static/js/2.120b1edc.chunk.js.map",
+    "static/js/3.7978bc98.chunk.js": "/my-poftfolio/static/js/3.7978bc98.chunk.js",
+    "static/js/3.7978bc98.chunk.js.map": "/my-poftfolio/static/js/3.7978bc98.chunk.js.map",
+    "index.html": "/my-poftfolio/index.html",
+    "static/css/main.5fa15ae1.chunk.css.map": "/my-poftfolio/static/css/main.5fa15ae1.chunk.css.map",
+    "static/js/2.120b1edc.chunk.js.LICENSE.txt": "/my-poftfolio/static/js/2.120b1edc.chunk.js.LICENSE.txt",
+    "static/media/Profile_Pic.48b7e884.JPG": "/my-poftfolio/static/media/Profile_Pic.48b7e884.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67e0e3ea.js",
+    "static/js/2.120b1edc.chunk.js",
+    "static/css/main.5fa15ae1.chunk.css",
+    "static/js/main.45f32f40.chunk.js"
+  ]
+}
